@@ -51,6 +51,9 @@
     }
 }
 
-
+ul{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(8.7rem,40px));
+}
 
 
